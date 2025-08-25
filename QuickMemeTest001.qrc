@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/QuickMemeTest001">
+        <file>static/icon/user.jpg</file>
+    </qresource>
+</RCC>

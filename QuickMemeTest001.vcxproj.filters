@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>qml;cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>qrc;rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+    </Filter>
+    <Filter Include="Translation Files">
+      <UniqueIdentifier>{639EADAA-A684-42e4-A9AD-28FC9BCB8F7C}</UniqueIdentifier>
+      <Extensions>ts</Extensions>
+    </Filter>
+    <Filter Include="Windows">
+      <UniqueIdentifier>{c7d75228-b02e-4d19-9fe2-93b90cb1549d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Windows\GallaryWindow">
+      <UniqueIdentifier>{95514d59-8b4c-446c-bd73-8f8339f3d9ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Windows\SettingWindow">
+      <UniqueIdentifier>{aed83162-ff53-41c2-ad6d-b6c1b093a595}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Windows\MainWindow">
+      <UniqueIdentifier>{bafb4140-f89e-4624-8722-1e6f79040250}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Windows\GallaryWindow\SearchBar">
+      <UniqueIdentifier>{4145779c-4f3c-4a45-84fe-649fbc79862e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Windows\GallaryWindow\ImageGallary">
+      <UniqueIdentifier>{47007b58-12e6-42ac-8aae-441da620d7fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tools Files">
+      <UniqueIdentifier>{38e3a5d7-3663-4083-b709-1aac8741a979}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Windows\SettingWindow\GallaryPage">
+      <UniqueIdentifier>{36a20ae3-59c4-4aaa-8646-11329290f66a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <QtRcc Include="QuickMemeTest001.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+    <QtUic Include="QuickMemeTest001.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickMeme.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GallaryWindow.cpp">
+      <Filter>Windows\GallaryWindow</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageGallery.cpp">
+      <Filter>Windows\GallaryWindow\ImageGallary</Filter>
+    </ClCompile>
+    <ClCompile Include="SearchBar.cpp">
+      <Filter>Windows\GallaryWindow\SearchBar</Filter>
+    </ClCompile>
+    <ClCompile Include="SettingsWindow.cpp">
+      <Filter>Windows\SettingWindow</Filter>
+    </ClCompile>
+    <ClCompile Include="SettingsPage.cpp">
+      <Filter>Windows\SettingWindow</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="QuickMeme.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="SharedData.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="SettingsWindow.h">
+      <Filter>Windows\SettingWindow</Filter>
+    </QtMoc>
+    <QtMoc Include="ImageGallery.h">
+      <Filter>Windows\GallaryWindow\ImageGallary</Filter>
+    </QtMoc>
+    <QtMoc Include="SearchBar.h">
+      <Filter>Windows\GallaryWindow\SearchBar</Filter>
+    </QtMoc>
+    <QtMoc Include="SettingsPage.h">
+      <Filter>Windows\SettingWindow</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GallaryWindow.h">
+      <Filter>Windows\GallaryWindow</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

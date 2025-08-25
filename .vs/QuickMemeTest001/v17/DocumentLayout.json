@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2025\\cpp\\QuickMemeTest001\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{464D4955-5BED-4B2C-B9F6-DA38CE13DC4F}|QuickMemeTest001.vcxproj|E:\\2025\\cpp\\QuickMemeTest001\\QuickMeme.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{464D4955-5BED-4B2C-B9F6-DA38CE13DC4F}|QuickMemeTest001.vcxproj|solutionrelative:QuickMeme.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464D4955-5BED-4B2C-B9F6-DA38CE13DC4F}|QuickMemeTest001.vcxproj|E:\\2025\\cpp\\QuickMemeTest001\\ImageGallery.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{464D4955-5BED-4B2C-B9F6-DA38CE13DC4F}|QuickMemeTest001.vcxproj|solutionrelative:ImageGallery.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464D4955-5BED-4B2C-B9F6-DA38CE13DC4F}|QuickMemeTest001.vcxproj|E:\\2025\\cpp\\QuickMemeTest001\\GallaryWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{464D4955-5BED-4B2C-B9F6-DA38CE13DC4F}|QuickMemeTest001.vcxproj|solutionrelative:GallaryWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464D4955-5BED-4B2C-B9F6-DA38CE13DC4F}|QuickMemeTest001.vcxproj|E:\\2025\\cpp\\QuickMemeTest001\\QuickMeme.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{464D4955-5BED-4B2C-B9F6-DA38CE13DC4F}|QuickMemeTest001.vcxproj|solutionrelative:QuickMeme.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464D4955-5BED-4B2C-B9F6-DA38CE13DC4F}|QuickMemeTest001.vcxproj|E:\\2025\\cpp\\QuickMemeTest001\\SharedData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{464D4955-5BED-4B2C-B9F6-DA38CE13DC4F}|QuickMemeTest001.vcxproj|solutionrelative:SharedData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464D4955-5BED-4B2C-B9F6-DA38CE13DC4F}|QuickMemeTest001.vcxproj|E:\\2025\\cpp\\QuickMemeTest001\\ImageGallery.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{464D4955-5BED-4B2C-B9F6-DA38CE13DC4F}|QuickMemeTest001.vcxproj|solutionrelative:ImageGallery.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464D4955-5BED-4B2C-B9F6-DA38CE13DC4F}|QuickMemeTest001.vcxproj|E:\\2025\\cpp\\QuickMemeTest001\\SettingsWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{464D4955-5BED-4B2C-B9F6-DA38CE13DC4F}|QuickMemeTest001.vcxproj|solutionrelative:SettingsWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464D4955-5BED-4B2C-B9F6-DA38CE13DC4F}|QuickMemeTest001.vcxproj|E:\\2025\\cpp\\QuickMemeTest001\\SettingsPage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{464D4955-5BED-4B2C-B9F6-DA38CE13DC4F}|QuickMemeTest001.vcxproj|solutionrelative:SettingsPage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464D4955-5BED-4B2C-B9F6-DA38CE13DC4F}|QuickMemeTest001.vcxproj|E:\\2025\\cpp\\QuickMemeTest001\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{464D4955-5BED-4B2C-B9F6-DA38CE13DC4F}|QuickMemeTest001.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464D4955-5BED-4B2C-B9F6-DA38CE13DC4F}|QuickMemeTest001.vcxproj|E:\\2025\\cpp\\QuickMemeTest001\\SearchBar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{464D4955-5BED-4B2C-B9F6-DA38CE13DC4F}|QuickMemeTest001.vcxproj|solutionrelative:SearchBar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464D4955-5BED-4B2C-B9F6-DA38CE13DC4F}|QuickMemeTest001.vcxproj|E:\\2025\\cpp\\QuickMemeTest001\\SearchBar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{464D4955-5BED-4B2C-B9F6-DA38CE13DC4F}|QuickMemeTest001.vcxproj|solutionrelative:SearchBar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464D4955-5BED-4B2C-B9F6-DA38CE13DC4F}|QuickMemeTest001.vcxproj|E:\\2025\\cpp\\QuickMemeTest001\\SettingsWindow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{464D4955-5BED-4B2C-B9F6-DA38CE13DC4F}|QuickMemeTest001.vcxproj|solutionrelative:SettingsWindow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464D4955-5BED-4B2C-B9F6-DA38CE13DC4F}|QuickMemeTest001.vcxproj|E:\\2025\\cpp\\QuickMemeTest001\\SettingsPage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{464D4955-5BED-4B2C-B9F6-DA38CE13DC4F}|QuickMemeTest001.vcxproj|solutionrelative:SettingsPage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464D4955-5BED-4B2C-B9F6-DA38CE13DC4F}|QuickMemeTest001.vcxproj|E:\\2025\\cpp\\QuickMemeTest001\\GallaryWindow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{464D4955-5BED-4B2C-B9F6-DA38CE13DC4F}|QuickMemeTest001.vcxproj|solutionrelative:GallaryWindow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 74,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuickMeme.cpp",
+              "DocumentMoniker": "E:\\2025\\cpp\\QuickMemeTest001\\QuickMeme.cpp",
+              "RelativeDocumentMoniker": "QuickMeme.cpp",
+              "ToolTip": "E:\\2025\\cpp\\QuickMemeTest001\\QuickMeme.cpp",
+              "RelativeToolTip": "QuickMeme.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAASwC8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-25T09:48:47.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ImageGallery.h",
+              "DocumentMoniker": "E:\\2025\\cpp\\QuickMemeTest001\\ImageGallery.h",
+              "RelativeDocumentMoniker": "ImageGallery.h",
+              "ToolTip": "E:\\2025\\cpp\\QuickMemeTest001\\ImageGallery.h",
+              "RelativeToolTip": "ImageGallery.h",
+              "ViewState": "AgIAACYAAAAAAAAAAAASwDEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-25T08:54:35.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SettingsPage.cpp",
+              "DocumentMoniker": "E:\\2025\\cpp\\QuickMemeTest001\\SettingsPage.cpp",
+              "RelativeDocumentMoniker": "SettingsPage.cpp",
+              "ToolTip": "E:\\2025\\cpp\\QuickMemeTest001\\SettingsPage.cpp",
+              "RelativeToolTip": "SettingsPage.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-24T23:08:50.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImageGallery.cpp",
+              "DocumentMoniker": "E:\\2025\\cpp\\QuickMemeTest001\\ImageGallery.cpp",
+              "RelativeDocumentMoniker": "ImageGallery.cpp",
+              "ToolTip": "E:\\2025\\cpp\\QuickMemeTest001\\ImageGallery.cpp",
+              "RelativeToolTip": "ImageGallery.cpp",
+              "ViewState": "AgIAAE4AAAAAAAAAAAASwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-23T15:25:52.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SettingsWindow.cpp",
+              "DocumentMoniker": "E:\\2025\\cpp\\QuickMemeTest001\\SettingsWindow.cpp",
+              "RelativeDocumentMoniker": "SettingsWindow.cpp",
+              "ToolTip": "E:\\2025\\cpp\\QuickMemeTest001\\SettingsWindow.cpp",
+              "RelativeToolTip": "SettingsWindow.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-05T22:56:53.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SettingsPage.h",
+              "DocumentMoniker": "E:\\2025\\cpp\\QuickMemeTest001\\SettingsPage.h",
+              "RelativeDocumentMoniker": "SettingsPage.h",
+              "ToolTip": "E:\\2025\\cpp\\QuickMemeTest001\\SettingsPage.h",
+              "RelativeToolTip": "SettingsPage.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-05T22:55:25.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SearchBar.h",
+              "DocumentMoniker": "E:\\2025\\cpp\\QuickMemeTest001\\SearchBar.h",
+              "RelativeDocumentMoniker": "SearchBar.h",
+              "ToolTip": "E:\\2025\\cpp\\QuickMemeTest001\\SearchBar.h",
+              "RelativeToolTip": "SearchBar.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T00:54:51.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SearchBar.cpp",
+              "DocumentMoniker": "E:\\2025\\cpp\\QuickMemeTest001\\SearchBar.cpp",
+              "RelativeDocumentMoniker": "SearchBar.cpp",
+              "ToolTip": "E:\\2025\\cpp\\QuickMemeTest001\\SearchBar.cpp",
+              "RelativeToolTip": "SearchBar.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T00:54:40.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SettingsWindow.h",
+              "DocumentMoniker": "E:\\2025\\cpp\\QuickMemeTest001\\SettingsWindow.h",
+              "RelativeDocumentMoniker": "SettingsWindow.h",
+              "ToolTip": "E:\\2025\\cpp\\QuickMemeTest001\\SettingsWindow.h",
+              "RelativeToolTip": "SettingsWindow.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T00:11:57.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GallaryWindow.h",
+              "DocumentMoniker": "E:\\2025\\cpp\\QuickMemeTest001\\GallaryWindow.h",
+              "RelativeDocumentMoniker": "GallaryWindow.h",
+              "ToolTip": "E:\\2025\\cpp\\QuickMemeTest001\\GallaryWindow.h",
+              "RelativeToolTip": "GallaryWindow.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-02T23:48:50.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GallaryWindow.cpp",
+              "DocumentMoniker": "E:\\2025\\cpp\\QuickMemeTest001\\GallaryWindow.cpp",
+              "RelativeDocumentMoniker": "GallaryWindow.cpp",
+              "ToolTip": "E:\\2025\\cpp\\QuickMemeTest001\\GallaryWindow.cpp",
+              "RelativeToolTip": "GallaryWindow.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-02T23:48:24.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SharedData.h",
+              "DocumentMoniker": "E:\\2025\\cpp\\QuickMemeTest001\\SharedData.h",
+              "RelativeDocumentMoniker": "SharedData.h",
+              "ToolTip": "E:\\2025\\cpp\\QuickMemeTest001\\SharedData.h",
+              "RelativeToolTip": "SharedData.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAFcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-02T23:41:42.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuickMeme.h",
+              "DocumentMoniker": "E:\\2025\\cpp\\QuickMemeTest001\\QuickMeme.h",
+              "RelativeDocumentMoniker": "QuickMeme.h",
+              "ToolTip": "E:\\2025\\cpp\\QuickMemeTest001\\QuickMeme.h",
+              "RelativeToolTip": "QuickMeme.h",
+              "ViewState": "AgIAABMAAAAAAAAAAAASwB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-02T23:28:39.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\2025\\cpp\\QuickMemeTest001\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "E:\\2025\\cpp\\QuickMemeTest001\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-02T23:25:15.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
